@@ -17,7 +17,7 @@ Delete Data Source Record
 Delete -> http://rm-dataflow-api.pentaknot.com/dataflow/system-settings/data/source/<:connectionId>
 
 Get All Data Source Types Records
-GET -> http://rm-dataflow-api.pentaknot.com/dataflow/system-settings/data/sourceType
+GET -> http://rm-dataflow-api.pentaknot.com/dataflow/system-settings/data/source-type
 
 Get All Target Data Records
 GET -> http://rm-dataflow-api.pentaknot.com/dataflow/system-settings/data/target
