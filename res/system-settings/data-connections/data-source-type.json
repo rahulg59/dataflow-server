@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "dataSource": "FTP"
+    },
+    {
+        "id": 2,
+        "dataSource": "HDFS"
+    },
+    {
+        "id": 3,
+        "dataSource": "AWS F3"
+    },
+    {
+        "id": 4,
+        "dataSource": "Kafka"
+    }
+]

@@ -1,0 +1,36 @@
+[
+  '{{repeat(20, 50)}}',
+  {
+    connectionId: '{{objectId()}}',
+    connectionName: 'Connection Name {{index()+1}}',
+    dataSource: '{{random("FTP","HDFS","AWS F3","Kafka")}}',
+    dataSourceId: function(tags) {
+      var id = 0;
+      switch(this.dataSource) {
+        case "FTP":
+          id = 1;
+          break;
+        case "HDFS":
+          id = 2;
+          break;
+        case "AWS F3":
+          id = 3;
+          break;
+        case "Kafka":
+          id = 4;
+          break;
+        default:
+          break;
+      }
+      return id;
+    },
+    serverName: '{{random("Oracle WebLogic", "NGINX", "Microsoft IIS","Bitnami")}}',
+    sourceLocation: "/input_data/FTP_folder",
+    stagingLocation: "/fetched_data/FTP_folder",
+    port: '{{random(8080,3000,4200,5200)}}',
+    url: '{{random("44.168.0.111","192.168.0.1")}}',
+    retries: '{{integer(1, 10)}}',
+    password: '{{lorem(1, "words")}}',
+    username: '{{firstName()}}_{{surname()}}'
+  }
+]
