@@ -1,0 +1,548 @@
+[
+    {
+      "clusterId": "CLUS-1",
+      "industryId": 1,
+      "columns": [
+        {
+          "columnId": 1,
+          "columnName": "Facility Id",
+          "value": "dolor"
+        },
+        {
+          "columnId": 3,
+          "columnName": "Account Type",
+          "value": "quis"
+        },
+        {
+          "columnId": 5,
+          "columnName": "Column Name 5",
+          "value": "mollit"
+        },
+        {
+          "columnId": 6,
+          "columnName": "Column Name 6",
+          "value": "Lorem"
+        }
+      ]
+    },
+    {
+      "clusterId": "CLUS-2",
+      "industryId": 1,
+      "columns": [
+        {
+          "columnId": 1,
+          "columnName": "Facility Id",
+          "value": "ut"
+        },
+        {
+          "columnId": 3,
+          "columnName": "Account Type",
+          "value": "commodo"
+        },
+        {
+          "columnId": 5,
+          "columnName": "Column Name 5",
+          "value": "ullamco"
+        },
+        {
+          "columnId": 6,
+          "columnName": "Column Name 6",
+          "value": "sint"
+        }
+      ]
+    },
+    {
+      "clusterId": "CLUS-3",
+      "industryId": 1,
+      "columns": [
+        {
+          "columnId": 1,
+          "columnName": "Facility Id",
+          "value": "sunt"
+        },
+        {
+          "columnId": 3,
+          "columnName": "Account Type",
+          "value": "cupidatat"
+        },
+        {
+          "columnId": 5,
+          "columnName": "Column Name 5",
+          "value": "minim"
+        },
+        {
+          "columnId": 6,
+          "columnName": "Column Name 6",
+          "value": "officia"
+        }
+      ]
+    },
+    {
+      "clusterId": "CLUS-4",
+      "industryId": 1,
+      "columns": [
+        {
+          "columnId": 1,
+          "columnName": "Facility Id",
+          "value": "sit"
+        },
+        {
+          "columnId": 3,
+          "columnName": "Account Type",
+          "value": "culpa"
+        },
+        {
+          "columnId": 5,
+          "columnName": "Column Name 5",
+          "value": "eu"
+        },
+        {
+          "columnId": 6,
+          "columnName": "Column Name 6",
+          "value": "nostrud"
+        }
+      ]
+    },
+    {
+      "clusterId": "CLUS-5",
+      "industryId": 1,
+      "columns": [
+        {
+          "columnId": 1,
+          "columnName": "Facility Id",
+          "value": "adipisicing"
+        },
+        {
+          "columnId": 3,
+          "columnName": "Account Type",
+          "value": "non"
+        },
+        {
+          "columnId": 5,
+          "columnName": "Column Name 5",
+          "value": "dolor"
+        },
+        {
+          "columnId": 6,
+          "columnName": "Column Name 6",
+          "value": "sint"
+        }
+      ]
+    },
+    {
+      "clusterId": "CLUS-6",
+      "industryId": 1,
+      "columns": [
+        {
+          "columnId": 1,
+          "columnName": "Facility Id",
+          "value": "qui"
+        },
+        {
+          "columnId": 3,
+          "columnName": "Account Type",
+          "value": "et"
+        },
+        {
+          "columnId": 5,
+          "columnName": "Column Name 5",
+          "value": "laboris"
+        },
+        {
+          "columnId": 6,
+          "columnName": "Column Name 6",
+          "value": "est"
+        }
+      ]
+    },
+    {
+      "clusterId": "CLUS-7",
+      "industryId": 1,
+      "columns": [
+        {
+          "columnId": 1,
+          "columnName": "Facility Id",
+          "value": "dolor"
+        },
+        {
+          "columnId": 3,
+          "columnName": "Account Type",
+          "value": "aliqua"
+        },
+        {
+          "columnId": 5,
+          "columnName": "Column Name 5",
+          "value": "proident"
+        },
+        {
+          "columnId": 6,
+          "columnName": "Column Name 6",
+          "value": "officia"
+        }
+      ]
+    },
+    {
+      "clusterId": "CLUS-8",
+      "industryId": 1,
+      "columns": [
+        {
+          "columnId": 1,
+          "columnName": "Facility Id",
+          "value": "aliquip"
+        },
+        {
+          "columnId": 3,
+          "columnName": "Account Type",
+          "value": "labore"
+        },
+        {
+          "columnId": 5,
+          "columnName": "Column Name 5",
+          "value": "nisi"
+        },
+        {
+          "columnId": 6,
+          "columnName": "Column Name 6",
+          "value": "officia"
+        }
+      ]
+    },
+    {
+      "clusterId": "CLUS-9",
+      "industryId": 1,
+      "columns": [
+        {
+          "columnId": 1,
+          "columnName": "Facility Id",
+          "value": "ad"
+        },
+        {
+          "columnId": 3,
+          "columnName": "Account Type",
+          "value": "non"
+        },
+        {
+          "columnId": 5,
+          "columnName": "Column Name 5",
+          "value": "fugiat"
+        },
+        {
+          "columnId": 6,
+          "columnName": "Column Name 6",
+          "value": "eiusmod"
+        }
+      ]
+    },
+    {
+      "clusterId": "CLUS-10",
+      "industryId": 1,
+      "columns": [
+        {
+          "columnId": 1,
+          "columnName": "Facility Id",
+          "value": "eiusmod"
+        },
+        {
+          "columnId": 3,
+          "columnName": "Account Type",
+          "value": "proident"
+        },
+        {
+          "columnId": 5,
+          "columnName": "Column Name 5",
+          "value": "quis"
+        },
+        {
+          "columnId": 6,
+          "columnName": "Column Name 6",
+          "value": "irure"
+        }
+      ]
+    },
+    {
+      "clusterId": "CLUS-11",
+      "industryId": 1,
+      "columns": [
+        {
+          "columnId": 1,
+          "columnName": "Facility Id",
+          "value": "ipsum"
+        },
+        {
+          "columnId": 3,
+          "columnName": "Account Type",
+          "value": "ipsum"
+        },
+        {
+          "columnId": 5,
+          "columnName": "Column Name 5",
+          "value": "ex"
+        },
+        {
+          "columnId": 6,
+          "columnName": "Column Name 6",
+          "value": "anim"
+        }
+      ]
+    },
+    {
+      "clusterId": "CLUS-12",
+      "industryId": 1,
+      "columns": [
+        {
+          "columnId": 1,
+          "columnName": "Facility Id",
+          "value": "aute"
+        },
+        {
+          "columnId": 3,
+          "columnName": "Account Type",
+          "value": "quis"
+        },
+        {
+          "columnId": 5,
+          "columnName": "Column Name 5",
+          "value": "et"
+        },
+        {
+          "columnId": 6,
+          "columnName": "Column Name 6",
+          "value": "do"
+        }
+      ]
+    },
+    {
+      "clusterId": "CLUS-13",
+      "industryId": 1,
+      "columns": [
+        {
+          "columnId": 1,
+          "columnName": "Facility Id",
+          "value": "laboris"
+        },
+        {
+          "columnId": 3,
+          "columnName": "Account Type",
+          "value": "eu"
+        },
+        {
+          "columnId": 5,
+          "columnName": "Column Name 5",
+          "value": "esse"
+        },
+        {
+          "columnId": 6,
+          "columnName": "Column Name 6",
+          "value": "ad"
+        }
+      ]
+    },
+    {
+      "clusterId": "CLUS-14",
+      "industryId": 1,
+      "columns": [
+        {
+          "columnId": 1,
+          "columnName": "Facility Id",
+          "value": "fugiat"
+        },
+        {
+          "columnId": 3,
+          "columnName": "Account Type",
+          "value": "aliqua"
+        },
+        {
+          "columnId": 5,
+          "columnName": "Column Name 5",
+          "value": "laboris"
+        },
+        {
+          "columnId": 6,
+          "columnName": "Column Name 6",
+          "value": "dolore"
+        }
+      ]
+    },
+    {
+      "clusterId": "CLUS-15",
+      "industryId": 1,
+      "columns": [
+        {
+          "columnId": 1,
+          "columnName": "Facility Id",
+          "value": "laborum"
+        },
+        {
+          "columnId": 3,
+          "columnName": "Account Type",
+          "value": "aliqua"
+        },
+        {
+          "columnId": 5,
+          "columnName": "Column Name 5",
+          "value": "laboris"
+        },
+        {
+          "columnId": 6,
+          "columnName": "Column Name 6",
+          "value": "cupidatat"
+        }
+      ]
+    },
+    {
+      "clusterId": "CLUS-16",
+      "industryId": 1,
+      "columns": [
+        {
+          "columnId": 1,
+          "columnName": "Facility Id",
+          "value": "magna"
+        },
+        {
+          "columnId": 3,
+          "columnName": "Account Type",
+          "value": "pariatur"
+        },
+        {
+          "columnId": 5,
+          "columnName": "Column Name 5",
+          "value": "esse"
+        },
+        {
+          "columnId": 6,
+          "columnName": "Column Name 6",
+          "value": "commodo"
+        }
+      ]
+    },
+    {
+      "clusterId": "CLUS-17",
+      "industryId": 1,
+      "columns": [
+        {
+          "columnId": 1,
+          "columnName": "Facility Id",
+          "value": "magna"
+        },
+        {
+          "columnId": 3,
+          "columnName": "Account Type",
+          "value": "ut"
+        },
+        {
+          "columnId": 5,
+          "columnName": "Column Name 5",
+          "value": "deserunt"
+        },
+        {
+          "columnId": 6,
+          "columnName": "Column Name 6",
+          "value": "do"
+        }
+      ]
+    },
+    {
+      "clusterId": "CLUS-18",
+      "industryId": 1,
+      "columns": [
+        {
+          "columnId": 1,
+          "columnName": "Facility Id",
+          "value": "ex"
+        },
+        {
+          "columnId": 3,
+          "columnName": "Account Type",
+          "value": "anim"
+        },
+        {
+          "columnId": 5,
+          "columnName": "Column Name 5",
+          "value": "qui"
+        },
+        {
+          "columnId": 6,
+          "columnName": "Column Name 6",
+          "value": "officia"
+        }
+      ]
+    },
+    {
+      "clusterId": "CLUS-19",
+      "industryId": 1,
+      "columns": [
+        {
+          "columnId": 1,
+          "columnName": "Facility Id",
+          "value": "cupidatat"
+        },
+        {
+          "columnId": 3,
+          "columnName": "Account Type",
+          "value": "elit"
+        },
+        {
+          "columnId": 5,
+          "columnName": "Column Name 5",
+          "value": "voluptate"
+        },
+        {
+          "columnId": 6,
+          "columnName": "Column Name 6",
+          "value": "excepteur"
+        }
+      ]
+    },
+    {
+      "clusterId": "CLUS-20",
+      "industryId": 1,
+      "columns": [
+        {
+          "columnId": 1,
+          "columnName": "Facility Id",
+          "value": "veniam"
+        },
+        {
+          "columnId": 3,
+          "columnName": "Account Type",
+          "value": "velit"
+        },
+        {
+          "columnId": 5,
+          "columnName": "Column Name 5",
+          "value": "ea"
+        },
+        {
+          "columnId": 6,
+          "columnName": "Column Name 6",
+          "value": "adipisicing"
+        }
+      ]
+    },
+    {
+      "clusterId": "CLUS-21",
+      "industryId": 1,
+      "columns": [
+        {
+          "columnId": 1,
+          "columnName": "Facility Id",
+          "value": "quis"
+        },
+        {
+          "columnId": 3,
+          "columnName": "Account Type",
+          "value": "exercitation"
+        },
+        {
+          "columnId": 5,
+          "columnName": "Column Name 5",
+          "value": "do"
+        },
+        {
+          "columnId": 6,
+          "columnName": "Column Name 6",
+          "value": "commodo"
+        }
+      ]
+    }
+  ]

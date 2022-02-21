@@ -1,0 +1,94 @@
+[
+    {
+      "industryId": 1,
+      "industryName": "HealthCare",
+      "stagingTables": [
+        {
+          "dataTableId": 31,
+          "dataTableName": "Data Table 31"
+        },
+        {
+          "dataTableId": 20,
+          "dataTableName": "Data Table 20"
+        }
+      ],
+      "consolidatedTables": [
+        {
+          "dataTableId": 35,
+          "dataTableName": "Data Table 35"
+        },
+        {
+          "dataTableId": 20,
+          "dataTableName": "Data Table 20"
+        }
+      ]
+    },
+    {
+        "industryId": 2,
+        "industryName": "Procurement",
+        "stagingTables": [
+          {
+            "dataTableId": 11,
+            "dataTableName": "Data Table 11"
+          }
+        ],
+        "consolidatedTables": [
+          {
+            "dataTableId": 12,
+            "dataTableName": "Data Table 12"
+          },
+          {
+            "dataTableId": 22,
+            "dataTableName": "Data Table 22"
+          },
+          {
+            "dataTableId": 34,
+            "dataTableName": "Data Table 34"
+          }
+        ]
+    },
+    {
+        "industryId": 3,
+        "industryName": "Technology",
+        "stagingTables": [
+          {
+            "dataTableId": 5,
+            "dataTableName": "Data Table 5"
+          },
+          {
+            "dataTableId": 23,
+            "dataTableName": "Data Table 23"
+          }
+        ],
+        "consolidatedTables": [
+          {
+            "dataTableId": 10,
+            "dataTableName": "Data Table 10"
+          }
+        ]
+    },
+    {
+        "industryId": 4,
+        "industryName": "Industry 4",
+        "stagingTables": [
+          {
+            "dataTableId": 6,
+            "dataTableName": "Data Table 6"
+          },
+          {
+            "dataTableId": 18,
+            "dataTableName": "Data Table 18"
+          },
+          {
+            "dataTableId": 19,
+            "dataTableName": "Data Table 19"
+          }
+        ],
+        "consolidatedTables": [
+          {
+            "dataTableId": 17,
+            "dataTableName": "Data Table 17"
+          }
+        ]
+    }
+]

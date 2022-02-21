@@ -1,0 +1,177 @@
+[
+    {
+      "dataTableId": 1,
+      "dataTableName": "Data Table 1",
+      "industryId": 6
+    },
+    {
+      "dataTableId": 2,
+      "dataTableName": "Data Table 2",
+      "industryId": 6
+    },
+    {
+      "dataTableId": 3,
+      "dataTableName": "Data Table 3",
+      "industryId": 3
+    },
+    {
+      "dataTableId": 4,
+      "dataTableName": "Data Table 4",
+      "industryId": 5
+    },
+    {
+      "dataTableId": 5,
+      "dataTableName": "Data Table 5",
+      "industryId": 3
+    },
+    {
+      "dataTableId": 6,
+      "dataTableName": "Data Table 6",
+      "industryId": 4
+    },
+    {
+      "dataTableId": 7,
+      "dataTableName": "Data Table 7",
+      "industryId": 6
+    },
+    {
+      "dataTableId": 8,
+      "dataTableName": "Data Table 8",
+      "industryId": 3
+    },
+    {
+      "dataTableId": 9,
+      "dataTableName": "Data Table 9",
+      "industryId": 2
+    },
+    {
+      "dataTableId": 10,
+      "dataTableName": "Data Table 10",
+      "industryId": 3
+    },
+    {
+      "dataTableId": 11,
+      "dataTableName": "Data Table 11",
+      "industryId": 2
+    },
+    {
+      "dataTableId": 12,
+      "dataTableName": "Data Table 12",
+      "industryId": 2
+    },
+    {
+      "dataTableId": 13,
+      "dataTableName": "Data Table 13",
+      "industryId": 3
+    },
+    {
+      "dataTableId": 14,
+      "dataTableName": "Data Table 14",
+      "industryId": 5
+    },
+    {
+      "dataTableId": 15,
+      "dataTableName": "Data Table 15",
+      "industryId": 6
+    },
+    {
+      "dataTableId": 16,
+      "dataTableName": "Data Table 16",
+      "industryId": 2
+    },
+    {
+      "dataTableId": 17,
+      "dataTableName": "Data Table 17",
+      "industryId": 4
+    },
+    {
+      "dataTableId": 18,
+      "dataTableName": "Data Table 18",
+      "industryId": 4
+    },
+    {
+      "dataTableId": 19,
+      "dataTableName": "Data Table 19",
+      "industryId": 4
+    },
+    {
+      "dataTableId": 20,
+      "dataTableName": "Data Table 20",
+      "industryId": 1
+    },
+    {
+      "dataTableId": 21,
+      "dataTableName": "Data Table 21",
+      "industryId": 2
+    },
+    {
+      "dataTableId": 22,
+      "dataTableName": "Data Table 22",
+      "industryId": 2
+    },
+    {
+      "dataTableId": 23,
+      "dataTableName": "Data Table 23",
+      "industryId": 3
+    },
+    {
+      "dataTableId": 24,
+      "dataTableName": "Data Table 24",
+      "industryId": 5
+    },
+    {
+      "dataTableId": 25,
+      "dataTableName": "Data Table 25",
+      "industryId": 5
+    },
+    {
+      "dataTableId": 26,
+      "dataTableName": "Data Table 26",
+      "industryId": 3
+    },
+    {
+      "dataTableId": 27,
+      "dataTableName": "Data Table 27",
+      "industryId": 1
+    },
+    {
+      "dataTableId": 28,
+      "dataTableName": "Data Table 28",
+      "industryId": 4
+    },
+    {
+      "dataTableId": 29,
+      "dataTableName": "Data Table 29",
+      "industryId": 5
+    },
+    {
+      "dataTableId": 30,
+      "dataTableName": "Data Table 30",
+      "industryId": 2
+    },
+    {
+      "dataTableId": 31,
+      "dataTableName": "Data Table 31",
+      "industryId": 1
+    },
+    {
+      "dataTableId": 32,
+      "dataTableName": "Data Table 32",
+      "industryId": 1
+    },
+    {
+      "dataTableId": 33,
+      "dataTableName": "Data Table 33",
+      "industryId": 6
+    },
+    {
+      "dataTableId": 34,
+      "dataTableName": "Data Table 34",
+      "industryId": 2
+    },
+    {
+      "dataTableId": 35,
+      "dataTableName": "Data Table 35",
+      "industryId": 1
+    }
+  ]

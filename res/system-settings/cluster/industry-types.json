@@ -1,0 +1,26 @@
+[
+    {
+      "industryId": 1,
+      "industryName": "HealthCare"
+    },
+    {
+      "industryId": 2,
+      "industryName": "Procurement"
+    },
+    {
+      "industryId": 3,
+      "industryName": "Technology"
+    },
+    {
+      "industryId": 4,
+      "industryName": "Industry 4"
+    },
+    {
+      "industryId": 5,
+      "industryName": "Industry 5"
+    },
+    {
+      "industryId": 6,
+      "industryName": "Industry 6"
+    }
+  ]

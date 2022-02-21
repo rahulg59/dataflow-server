@@ -1,0 +1,653 @@
+[
+  {
+    "clusterId": "CLUST-01",
+    "industryId": 2,
+    "columns": [
+      {
+        "columnId": 1,
+        "columnName": "Facility Id",
+        "value": "sunt"
+      },
+      {
+        "columnId": 2,
+        "columnName": "Patient Network",
+        "value": "ea"
+      },
+      {
+        "columnId": 3,
+        "columnName": "Account Type",
+        "value": "proident"
+      },
+      {
+        "columnId": 4,
+        "columnName": "Admit Date",
+        "value": "voluptate"
+      },
+      {
+        "columnId": 5,
+        "columnName": "Column Name 5",
+        "value": "aliquip"
+      }
+    ]
+  },
+  {
+    "clusterId": "CLUST-02",
+    "industryId": 2,
+    "columns": [
+      {
+        "columnId": 1,
+        "columnName": "Facility Id",
+        "value": "esse"
+      },
+      {
+        "columnId": 2,
+        "columnName": "Patient Network",
+        "value": "cillum"
+      },
+      {
+        "columnId": 3,
+        "columnName": "Account Type",
+        "value": "deserunt"
+      },
+      {
+        "columnId": 4,
+        "columnName": "Admit Date",
+        "value": "aliquip"
+      },
+      {
+        "columnId": 5,
+        "columnName": "Column Name 5",
+        "value": "et"
+      }
+    ]
+  },
+  {
+    "clusterId": "CLUST-03",
+    "industryId": 2,
+    "columns": [
+      {
+        "columnId": 1,
+        "columnName": "Facility Id",
+        "value": "elit"
+      },
+      {
+        "columnId": 2,
+        "columnName": "Patient Network",
+        "value": "sit"
+      },
+      {
+        "columnId": 3,
+        "columnName": "Account Type",
+        "value": "deserunt"
+      },
+      {
+        "columnId": 4,
+        "columnName": "Admit Date",
+        "value": "quis"
+      },
+      {
+        "columnId": 5,
+        "columnName": "Column Name 5",
+        "value": "quis"
+      }
+    ]
+  },
+  {
+    "clusterId": "CLUST-04",
+    "industryId": 2,
+    "columns": [
+      {
+        "columnId": 1,
+        "columnName": "Facility Id",
+        "value": "non"
+      },
+      {
+        "columnId": 2,
+        "columnName": "Patient Network",
+        "value": "qui"
+      },
+      {
+        "columnId": 3,
+        "columnName": "Account Type",
+        "value": "minim"
+      },
+      {
+        "columnId": 4,
+        "columnName": "Admit Date",
+        "value": "id"
+      },
+      {
+        "columnId": 5,
+        "columnName": "Column Name 5",
+        "value": "adipisicing"
+      }
+    ]
+  },
+  {
+    "clusterId": "CLUST-05",
+    "industryId": 2,
+    "columns": [
+      {
+        "columnId": 1,
+        "columnName": "Facility Id",
+        "value": "quis"
+      },
+      {
+        "columnId": 2,
+        "columnName": "Patient Network",
+        "value": "ex"
+      },
+      {
+        "columnId": 3,
+        "columnName": "Account Type",
+        "value": "duis"
+      },
+      {
+        "columnId": 4,
+        "columnName": "Admit Date",
+        "value": "culpa"
+      },
+      {
+        "columnId": 5,
+        "columnName": "Column Name 5",
+        "value": "ex"
+      }
+    ]
+  },
+  {
+    "clusterId": "CLUST-06",
+    "industryId": 2,
+    "columns": [
+      {
+        "columnId": 1,
+        "columnName": "Facility Id",
+        "value": "occaecat"
+      },
+      {
+        "columnId": 2,
+        "columnName": "Patient Network",
+        "value": "in"
+      },
+      {
+        "columnId": 3,
+        "columnName": "Account Type",
+        "value": "labore"
+      },
+      {
+        "columnId": 4,
+        "columnName": "Admit Date",
+        "value": "sunt"
+      },
+      {
+        "columnId": 5,
+        "columnName": "Column Name 5",
+        "value": "aliqua"
+      }
+    ]
+  },
+  {
+    "clusterId": "CLUST-07",
+    "industryId": 2,
+    "columns": [
+      {
+        "columnId": 1,
+        "columnName": "Facility Id",
+        "value": "tempor"
+      },
+      {
+        "columnId": 2,
+        "columnName": "Patient Network",
+        "value": "minim"
+      },
+      {
+        "columnId": 3,
+        "columnName": "Account Type",
+        "value": "consectetur"
+      },
+      {
+        "columnId": 4,
+        "columnName": "Admit Date",
+        "value": "qui"
+      },
+      {
+        "columnId": 5,
+        "columnName": "Column Name 5",
+        "value": "consequat"
+      }
+    ]
+  },
+  {
+    "clusterId": "CLUST-08",
+    "industryId": 2,
+    "columns": [
+      {
+        "columnId": 1,
+        "columnName": "Facility Id",
+        "value": "amet"
+      },
+      {
+        "columnId": 2,
+        "columnName": "Patient Network",
+        "value": "duis"
+      },
+      {
+        "columnId": 3,
+        "columnName": "Account Type",
+        "value": "aute"
+      },
+      {
+        "columnId": 4,
+        "columnName": "Admit Date",
+        "value": "deserunt"
+      },
+      {
+        "columnId": 5,
+        "columnName": "Column Name 5",
+        "value": "labore"
+      }
+    ]
+  },
+  {
+    "clusterId": "CLUST-09",
+    "industryId": 2,
+    "columns": [
+      {
+        "columnId": 1,
+        "columnName": "Facility Id",
+        "value": "aliquip"
+      },
+      {
+        "columnId": 2,
+        "columnName": "Patient Network",
+        "value": "et"
+      },
+      {
+        "columnId": 3,
+        "columnName": "Account Type",
+        "value": "qui"
+      },
+      {
+        "columnId": 4,
+        "columnName": "Admit Date",
+        "value": "qui"
+      },
+      {
+        "columnId": 5,
+        "columnName": "Column Name 5",
+        "value": "nulla"
+      }
+    ]
+  },
+  {
+    "clusterId": "CLUST-010",
+    "industryId": 2,
+    "columns": [
+      {
+        "columnId": 1,
+        "columnName": "Facility Id",
+        "value": "exercitation"
+      },
+      {
+        "columnId": 2,
+        "columnName": "Patient Network",
+        "value": "quis"
+      },
+      {
+        "columnId": 3,
+        "columnName": "Account Type",
+        "value": "dolor"
+      },
+      {
+        "columnId": 4,
+        "columnName": "Admit Date",
+        "value": "cillum"
+      },
+      {
+        "columnId": 5,
+        "columnName": "Column Name 5",
+        "value": "qui"
+      }
+    ]
+  },
+  {
+    "clusterId": "CLUST-011",
+    "industryId": 2,
+    "columns": [
+      {
+        "columnId": 1,
+        "columnName": "Facility Id",
+        "value": "qui"
+      },
+      {
+        "columnId": 2,
+        "columnName": "Patient Network",
+        "value": "anim"
+      },
+      {
+        "columnId": 3,
+        "columnName": "Account Type",
+        "value": "qui"
+      },
+      {
+        "columnId": 4,
+        "columnName": "Admit Date",
+        "value": "mollit"
+      },
+      {
+        "columnId": 5,
+        "columnName": "Column Name 5",
+        "value": "non"
+      }
+    ]
+  },
+  {
+    "clusterId": "CLUST-012",
+    "industryId": 2,
+    "columns": [
+      {
+        "columnId": 1,
+        "columnName": "Facility Id",
+        "value": "elit"
+      },
+      {
+        "columnId": 2,
+        "columnName": "Patient Network",
+        "value": "nulla"
+      },
+      {
+        "columnId": 3,
+        "columnName": "Account Type",
+        "value": "qui"
+      },
+      {
+        "columnId": 4,
+        "columnName": "Admit Date",
+        "value": "incididunt"
+      },
+      {
+        "columnId": 5,
+        "columnName": "Column Name 5",
+        "value": "deserunt"
+      }
+    ]
+  },
+  {
+    "clusterId": "CLUST-013",
+    "industryId": 2,
+    "columns": [
+      {
+        "columnId": 1,
+        "columnName": "Facility Id",
+        "value": "tempor"
+      },
+      {
+        "columnId": 2,
+        "columnName": "Patient Network",
+        "value": "aliquip"
+      },
+      {
+        "columnId": 3,
+        "columnName": "Account Type",
+        "value": "velit"
+      },
+      {
+        "columnId": 4,
+        "columnName": "Admit Date",
+        "value": "excepteur"
+      },
+      {
+        "columnId": 5,
+        "columnName": "Column Name 5",
+        "value": "veniam"
+      }
+    ]
+  },
+  {
+    "clusterId": "CLUST-014",
+    "industryId": 2,
+    "columns": [
+      {
+        "columnId": 1,
+        "columnName": "Facility Id",
+        "value": "Lorem"
+      },
+      {
+        "columnId": 2,
+        "columnName": "Patient Network",
+        "value": "excepteur"
+      },
+      {
+        "columnId": 3,
+        "columnName": "Account Type",
+        "value": "est"
+      },
+      {
+        "columnId": 4,
+        "columnName": "Admit Date",
+        "value": "dolore"
+      },
+      {
+        "columnId": 5,
+        "columnName": "Column Name 5",
+        "value": "ea"
+      }
+    ]
+  },
+  {
+    "clusterId": "CLUST-015",
+    "industryId": 2,
+    "columns": [
+      {
+        "columnId": 1,
+        "columnName": "Facility Id",
+        "value": "qui"
+      },
+      {
+        "columnId": 2,
+        "columnName": "Patient Network",
+        "value": "amet"
+      },
+      {
+        "columnId": 3,
+        "columnName": "Account Type",
+        "value": "quis"
+      },
+      {
+        "columnId": 4,
+        "columnName": "Admit Date",
+        "value": "incididunt"
+      },
+      {
+        "columnId": 5,
+        "columnName": "Column Name 5",
+        "value": "veniam"
+      }
+    ]
+  },
+  {
+    "clusterId": "CLUST-016",
+    "industryId": 2,
+    "columns": [
+      {
+        "columnId": 1,
+        "columnName": "Facility Id",
+        "value": "eu"
+      },
+      {
+        "columnId": 2,
+        "columnName": "Patient Network",
+        "value": "nulla"
+      },
+      {
+        "columnId": 3,
+        "columnName": "Account Type",
+        "value": "excepteur"
+      },
+      {
+        "columnId": 4,
+        "columnName": "Admit Date",
+        "value": "aliquip"
+      },
+      {
+        "columnId": 5,
+        "columnName": "Column Name 5",
+        "value": "eiusmod"
+      }
+    ]
+  },
+  {
+    "clusterId": "CLUST-017",
+    "industryId": 2,
+    "columns": [
+      {
+        "columnId": 1,
+        "columnName": "Facility Id",
+        "value": "labore"
+      },
+      {
+        "columnId": 2,
+        "columnName": "Patient Network",
+        "value": "fugiat"
+      },
+      {
+        "columnId": 3,
+        "columnName": "Account Type",
+        "value": "veniam"
+      },
+      {
+        "columnId": 4,
+        "columnName": "Admit Date",
+        "value": "elit"
+      },
+      {
+        "columnId": 5,
+        "columnName": "Column Name 5",
+        "value": "nisi"
+      }
+    ]
+  },
+  {
+    "clusterId": "CLUST-018",
+    "industryId": 2,
+    "columns": [
+      {
+        "columnId": 1,
+        "columnName": "Facility Id",
+        "value": "officia"
+      },
+      {
+        "columnId": 2,
+        "columnName": "Patient Network",
+        "value": "in"
+      },
+      {
+        "columnId": 3,
+        "columnName": "Account Type",
+        "value": "minim"
+      },
+      {
+        "columnId": 4,
+        "columnName": "Admit Date",
+        "value": "eu"
+      },
+      {
+        "columnId": 5,
+        "columnName": "Column Name 5",
+        "value": "qui"
+      }
+    ]
+  },
+  {
+    "clusterId": "CLUST-019",
+    "industryId": 2,
+    "columns": [
+      {
+        "columnId": 1,
+        "columnName": "Facility Id",
+        "value": "nostrud"
+      },
+      {
+        "columnId": 2,
+        "columnName": "Patient Network",
+        "value": "nulla"
+      },
+      {
+        "columnId": 3,
+        "columnName": "Account Type",
+        "value": "excepteur"
+      },
+      {
+        "columnId": 4,
+        "columnName": "Admit Date",
+        "value": "nostrud"
+      },
+      {
+        "columnId": 5,
+        "columnName": "Column Name 5",
+        "value": "exercitation"
+      }
+    ]
+  },
+  {
+    "clusterId": "CLUST-020",
+    "industryId": 2,
+    "columns": [
+      {
+        "columnId": 1,
+        "columnName": "Facility Id",
+        "value": "eu"
+      },
+      {
+        "columnId": 2,
+        "columnName": "Patient Network",
+        "value": "eiusmod"
+      },
+      {
+        "columnId": 3,
+        "columnName": "Account Type",
+        "value": "aliquip"
+      },
+      {
+        "columnId": 4,
+        "columnName": "Admit Date",
+        "value": "nostrud"
+      },
+      {
+        "columnId": 5,
+        "columnName": "Column Name 5",
+        "value": "tempor"
+      }
+    ]
+  },
+  {
+    "clusterId": "CLUST-021",
+    "industryId": 2,
+    "columns": [
+      {
+        "columnId": 1,
+        "columnName": "Facility Id",
+        "value": "laborum"
+      },
+      {
+        "columnId": 2,
+        "columnName": "Patient Network",
+        "value": "elit"
+      },
+      {
+        "columnId": 3,
+        "columnName": "Account Type",
+        "value": "anim"
+      },
+      {
+        "columnId": 4,
+        "columnName": "Admit Date",
+        "value": "duis"
+      },
+      {
+        "columnId": 5,
+        "columnName": "Column Name 5",
+        "value": "esse"
+      }
+    ]
+  }
+]

@@ -1,0 +1,8 @@
+{
+    "serverAddress": "smpt.gmail.com",
+    "smtpUsername": "admin@gmail.com",
+    "smtpPassword": "Abc123",
+    "tlsPort": 587,
+    "sslPort": 443,
+    "isConnectionSecurityEnabled": 1
+}

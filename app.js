@@ -5,6 +5,9 @@ const bodyParser = require("body-parser");
 const router = express.Router();
 const { dataConnections } = require("./modules/system-settings/data-connections");
 const { clusterSetup } = require("./modules/system-settings/cluster-setup");
+const { emailNotification } = require("./modules/system-settings/email-notification");
+const { unwantedCharacters } = require("./modules/system-settings/unwanted-characters");
+const { stagingSetup } = require("./modules/system-settings/staging-setup");
 const baseUrl = "http://localhost:3000/files/";
 
 var corsOptions = {
@@ -24,6 +27,9 @@ app.get("/", (req, res) => {
 
 dataConnections(app, '/dataflow/system-settings/data');
 clusterSetup(app, '/dataflow/system-settings/cluster');
+emailNotification(app, '/dataflow/system-settings/email-notification-config');
+unwantedCharacters(app, '/dataflow/system-settings/unwated-characters');
+stagingSetup(app, '/dataflow/system-settings/staging-setup');
 
 
 
