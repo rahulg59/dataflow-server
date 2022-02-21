@@ -31,3 +31,13 @@ Delete Data target Record
 Delete -> http://rm-dataflow-api.pentaknot.com/dataflow/system-settings/data/target/<:connectionId>
 
 CLUSTER SETUP APIs
+
+Get All Industry Types
+GET -> http://rm-dataflow-api.pentaknot.com/dataflow/system-settings/cluster/industry-types
+// Get All Columns
+GET -> http://rm-dataflow-api.pentaknot.com/dataflow/system-settings/cluster/columns
+// Get Cluster List By Industry Id
+GET -> http://rm-dataflow-api.pentaknot.com/dataflow/system-settings/cluster/<:industryId>
+// Add New Cluster
+POST -> http://rm-dataflow-api.pentaknot.com/dataflow/system-settings/cluster/
+POST BODY JSON Structure -> http://rm-dataflow-api.pentaknot.com/dataflow/system-settings/cluster/add-new-cluster

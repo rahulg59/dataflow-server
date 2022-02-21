@@ -1,7 +1,7 @@
 [
   {
     "clusterId": "CLUST-01",
-    "industryId": 2,
+    "industryName": "Procurement",
     "columns": [
       {
         "columnId": 1,
@@ -32,7 +32,7 @@
   },
   {
     "clusterId": "CLUST-02",
-    "industryId": 2,
+    "industryName": "Procurement",
     "columns": [
       {
         "columnId": 1,
@@ -63,7 +63,7 @@
   },
   {
     "clusterId": "CLUST-03",
-    "industryId": 2,
+    "industryName": "Procurement",
     "columns": [
       {
         "columnId": 1,
@@ -94,7 +94,7 @@
   },
   {
     "clusterId": "CLUST-04",
-    "industryId": 2,
+    "industryName": "Procurement",
     "columns": [
       {
         "columnId": 1,
@@ -125,7 +125,7 @@
   },
   {
     "clusterId": "CLUST-05",
-    "industryId": 2,
+    "industryName": "Procurement",
     "columns": [
       {
         "columnId": 1,
@@ -156,7 +156,7 @@
   },
   {
     "clusterId": "CLUST-06",
-    "industryId": 2,
+    "industryName": "Procurement",
     "columns": [
       {
         "columnId": 1,
@@ -187,7 +187,7 @@
   },
   {
     "clusterId": "CLUST-07",
-    "industryId": 2,
+    "industryName": "Procurement",
     "columns": [
       {
         "columnId": 1,
@@ -218,7 +218,7 @@
   },
   {
     "clusterId": "CLUST-08",
-    "industryId": 2,
+    "industryName": "Procurement",
     "columns": [
       {
         "columnId": 1,
@@ -249,7 +249,7 @@
   },
   {
     "clusterId": "CLUST-09",
-    "industryId": 2,
+    "industryName": "Procurement",
     "columns": [
       {
         "columnId": 1,
@@ -280,7 +280,7 @@
   },
   {
     "clusterId": "CLUST-010",
-    "industryId": 2,
+    "industryName": "Procurement",
     "columns": [
       {
         "columnId": 1,
@@ -311,7 +311,7 @@
   },
   {
     "clusterId": "CLUST-011",
-    "industryId": 2,
+    "industryName": "Procurement",
     "columns": [
       {
         "columnId": 1,
@@ -342,7 +342,7 @@
   },
   {
     "clusterId": "CLUST-012",
-    "industryId": 2,
+    "industryName": "Procurement",
     "columns": [
       {
         "columnId": 1,
@@ -373,7 +373,7 @@
   },
   {
     "clusterId": "CLUST-013",
-    "industryId": 2,
+    "industryName": "Procurement",
     "columns": [
       {
         "columnId": 1,
@@ -404,7 +404,7 @@
   },
   {
     "clusterId": "CLUST-014",
-    "industryId": 2,
+    "industryName": "Procurement",
     "columns": [
       {
         "columnId": 1,
@@ -435,7 +435,7 @@
   },
   {
     "clusterId": "CLUST-015",
-    "industryId": 2,
+    "industryName": "Procurement",
     "columns": [
       {
         "columnId": 1,
@@ -466,7 +466,7 @@
   },
   {
     "clusterId": "CLUST-016",
-    "industryId": 2,
+    "industryName": "Procurement",
     "columns": [
       {
         "columnId": 1,
@@ -497,7 +497,7 @@
   },
   {
     "clusterId": "CLUST-017",
-    "industryId": 2,
+    "industryName": "Procurement",
     "columns": [
       {
         "columnId": 1,
@@ -528,7 +528,7 @@
   },
   {
     "clusterId": "CLUST-018",
-    "industryId": 2,
+    "industryName": "Procurement",
     "columns": [
       {
         "columnId": 1,
@@ -559,7 +559,7 @@
   },
   {
     "clusterId": "CLUST-019",
-    "industryId": 2,
+    "industryName": "Procurement",
     "columns": [
       {
         "columnId": 1,
@@ -590,7 +590,7 @@
   },
   {
     "clusterId": "CLUST-020",
-    "industryId": 2,
+    "industryName": "Procurement",
     "columns": [
       {
         "columnId": 1,
@@ -621,7 +621,7 @@
   },
   {
     "clusterId": "CLUST-021",
-    "industryId": 2,
+    "industryName": "Procurement",
     "columns": [
       {
         "columnId": 1,

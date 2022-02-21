@@ -1,7 +1,7 @@
 [
     {
       "clusterId": "CLUS-1",
-      "industryId": 1,
+      "industryName": "HealthCare",
       "columns": [
         {
           "columnId": 1,
@@ -27,7 +27,7 @@
     },
     {
       "clusterId": "CLUS-2",
-      "industryId": 1,
+      "industryName": "HealthCare",
       "columns": [
         {
           "columnId": 1,
@@ -53,7 +53,7 @@
     },
     {
       "clusterId": "CLUS-3",
-      "industryId": 1,
+      "industryName": "HealthCare",
       "columns": [
         {
           "columnId": 1,
@@ -79,7 +79,7 @@
     },
     {
       "clusterId": "CLUS-4",
-      "industryId": 1,
+      "industryName": "HealthCare",
       "columns": [
         {
           "columnId": 1,
@@ -105,7 +105,7 @@
     },
     {
       "clusterId": "CLUS-5",
-      "industryId": 1,
+      "industryName": "HealthCare",
       "columns": [
         {
           "columnId": 1,
@@ -131,7 +131,7 @@
     },
     {
       "clusterId": "CLUS-6",
-      "industryId": 1,
+      "industryName": "HealthCare",
       "columns": [
         {
           "columnId": 1,
@@ -157,7 +157,7 @@
     },
     {
       "clusterId": "CLUS-7",
-      "industryId": 1,
+      "industryName": "HealthCare",
       "columns": [
         {
           "columnId": 1,
@@ -183,7 +183,7 @@
     },
     {
       "clusterId": "CLUS-8",
-      "industryId": 1,
+      "industryName": "HealthCare",
       "columns": [
         {
           "columnId": 1,
@@ -209,7 +209,7 @@
     },
     {
       "clusterId": "CLUS-9",
-      "industryId": 1,
+      "industryName": "HealthCare",
       "columns": [
         {
           "columnId": 1,
@@ -235,7 +235,7 @@
     },
     {
       "clusterId": "CLUS-10",
-      "industryId": 1,
+      "industryName": "HealthCare",
       "columns": [
         {
           "columnId": 1,
@@ -261,7 +261,7 @@
     },
     {
       "clusterId": "CLUS-11",
-      "industryId": 1,
+      "industryName": "HealthCare",
       "columns": [
         {
           "columnId": 1,
@@ -287,7 +287,7 @@
     },
     {
       "clusterId": "CLUS-12",
-      "industryId": 1,
+      "industryName": "HealthCare",
       "columns": [
         {
           "columnId": 1,
@@ -313,7 +313,7 @@
     },
     {
       "clusterId": "CLUS-13",
-      "industryId": 1,
+      "industryName": "HealthCare",
       "columns": [
         {
           "columnId": 1,
@@ -339,7 +339,7 @@
     },
     {
       "clusterId": "CLUS-14",
-      "industryId": 1,
+      "industryName": "HealthCare",
       "columns": [
         {
           "columnId": 1,
@@ -365,7 +365,7 @@
     },
     {
       "clusterId": "CLUS-15",
-      "industryId": 1,
+      "industryName": "HealthCare",
       "columns": [
         {
           "columnId": 1,
@@ -391,7 +391,7 @@
     },
     {
       "clusterId": "CLUS-16",
-      "industryId": 1,
+      "industryName": "HealthCare",
       "columns": [
         {
           "columnId": 1,
@@ -417,7 +417,7 @@
     },
     {
       "clusterId": "CLUS-17",
-      "industryId": 1,
+      "industryName": "HealthCare",
       "columns": [
         {
           "columnId": 1,
@@ -443,7 +443,7 @@
     },
     {
       "clusterId": "CLUS-18",
-      "industryId": 1,
+      "industryName": "HealthCare",
       "columns": [
         {
           "columnId": 1,
@@ -469,7 +469,7 @@
     },
     {
       "clusterId": "CLUS-19",
-      "industryId": 1,
+      "industryName": "HealthCare",
       "columns": [
         {
           "columnId": 1,
@@ -495,7 +495,7 @@
     },
     {
       "clusterId": "CLUS-20",
-      "industryId": 1,
+      "industryName": "HealthCare",
       "columns": [
         {
           "columnId": 1,
@@ -521,7 +521,7 @@
     },
     {
       "clusterId": "CLUS-21",
-      "industryId": 1,
+      "industryName": "HealthCare",
       "columns": [
         {
           "columnId": 1,

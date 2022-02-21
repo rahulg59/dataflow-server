@@ -34,33 +34,8 @@ const clusterSetup = (app, baseEndPoint) => {
     res.send(responseObject);
     });
 
-    // Get Cluster List By Industry Id
-    app.get(`${baseEndPoint}/clusters/:id`, (req, res) => {
-    let id = req.params.id;
-    if(!id) id = 0;
-    let rawdata = fs.readFileSync(
-        path.resolve(__dirname, `../../res/system-settings/cluster/clusters-${id%2==0?1:2}.json`)
-    );
-    let responseObject = {
-        data: [],
-        message: "",
-        error: null,
-        status: "success"
-    }
-    let data = JSON.parse(rawdata);
-    if(data) {
-        responseObject.data = data;
-    } else {
-        responseObject.data = [];
-        responseObject.message = "Data not found";
-        responseObject.error = true;
-        responseObject.status = "error"
-    }
-    res.send(responseObject);
-    });
-
     // Add New Cluster
-    app.post(`${baseEndPoint}/cluster/`, (req, res) => {
+    app.post(`${baseEndPoint}`, (req, res) => {
     let responseObject = {
         data: [],
         message: "",
@@ -72,6 +47,38 @@ const clusterSetup = (app, baseEndPoint) => {
         responseObject.message = "Data Added Successfully";
     }
     res.send(responseObject);
+    });
+
+    // Add New Cluster POST BODY
+    app.get(`${baseEndPoint}/add-new-cluster`, (req, res) => {
+    let rawdata = fs.readFileSync(
+        path.resolve(__dirname, "../../res/system-settings/cluster/add-new-cluster.json")
+    );
+    let data = JSON.parse(rawdata);
+    res.send(data);
+    });
+
+    // Get Cluster List By Industry Id
+    app.get(`${baseEndPoint}/:id`, (req, res) => {
+        let id = req.params.id;
+        let rawdata;
+        if(id && id == "1" || id == "2")
+        rawdata = fs.readFileSync(
+            path.resolve(__dirname, `../../res/system-settings/cluster/clusters-${id}.json`)
+        );
+        let responseObject = {
+            data: [],
+            message: "",
+            error: null,
+            status: "success"
+        }
+        if(rawdata) {
+            let data = JSON.parse(rawdata);
+            if(data) {
+                responseObject.data = data;
+            }
+        }
+        res.send(responseObject);
     });
 };
   

@@ -1,0 +1,22 @@
+{
+    "clusterId": null,
+    "industryName": "HealthCare",
+    "columns": [
+      {
+        "columnId": 1,
+        "columnName": "Facility Id"
+      },
+      {
+        "columnId": 3,
+        "columnName": "Account Type"
+      },
+      {
+        "columnId": 5,
+        "columnName": "Column Name 5"
+      },
+      {
+        "columnId": 6,
+        "columnName": "Column Name 6"
+      }
+    ]
+}
