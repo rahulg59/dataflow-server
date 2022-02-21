@@ -72,3 +72,44 @@ node app.js
     **POST** -> http://rm-dataflow-api.pentaknot.com/dataflow/system-settings/cluster/
 
     POST BODY JSON Structure -> http://rm-dataflow-api.pentaknot.com/dataflow/system-settings/cluster/add-new-cluster
+
+
+### Email Notification APIs
+
+- Get Email Notification Config:
+
+    **GET** -> http://rm-dataflow-api.pentaknot.com/dataflow/system-settings/email-notification-config
+
+- Test Connection:
+    
+    **GET** -> http://rm-dataflow-api.pentaknot.com/dataflow/system-settings/email-notification-config/test-connection
+
+- Update Email Notification Config:
+
+    **PUT** -> http://rm-dataflow-api.pentaknot.com/dataflow/system-settings/email-notification-config
+
+
+### Unwanted Characters APIs
+
+- Get Unwanted Characters:
+
+    **GET** -> http://rm-dataflow-api.pentaknot.com/dataflow/system-settings/unwated-characters
+
+- Update Unwanted Characters:
+
+    **PUT** -> http://rm-dataflow-api.pentaknot.com/dataflow/system-settings/unwated-characters
+
+
+### Staging Setup APIs
+
+- Get All Data Tables:
+
+    **GET** -> http://rm-dataflow-api.pentaknot.com/dataflow/system-settings/staging-setup/data-tables
+
+- Get All Staging-Mapping:
+    
+    **GET** -> http://rm-dataflow-api.pentaknot.com/dataflow/system-settings/staging-setup
+
+- Update ALL Staging-Mapping:
+
+    **PUT** -> http://rm-dataflow-api.pentaknot.com/dataflow/system-settings/staging-setup

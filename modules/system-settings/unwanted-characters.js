@@ -18,7 +18,7 @@ const unwantedCharacters = (app, baseEndPoint) => {
     res.send(responseObject);
     });
 
-    // Update Email Notification Config
+    // Update Unwanted Characters
     app.put(`${baseEndPoint}`, (req, res) => {
     let responseObject = {
         data: [],
