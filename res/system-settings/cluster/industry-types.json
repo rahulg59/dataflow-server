@@ -22,5 +22,41 @@
     {
       "industryId": 6,
       "industryName": "Industry 6"
+    },
+    {
+      "industryId": 7,
+      "industryName": "Industry 7"
+    },
+    {
+      "industryId": 8,
+      "industryName": "Industry 8"
+    },
+    {
+      "industryId": 9,
+      "industryName": "Industry 9"
+    },
+    {
+      "industryId": 10,
+      "industryName": "Industry 10"
+    },
+    {
+      "industryId": 11,
+      "industryName": "Industry 11"
+    },
+    {
+      "industryId": 12,
+      "industryName": "Industry 12"
+    },
+    {
+      "industryId": 13,
+      "industryName": "Industry 13"
+    },
+    {
+      "industryId": 14,
+      "industryName": "Industry 14"
+    },
+    {
+      "industryId": 15,
+      "industryName": "Industry 15"
     }
   ]

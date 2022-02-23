@@ -93,11 +93,11 @@ node app.js
 
 - Get Unwanted Characters:
 
-    **GET** -> http://rm-dataflow-api.pentaknot.com/dataflow/system-settings/unwated-characters
+    **GET** -> http://rm-dataflow-api.pentaknot.com/dataflow/system-settings/unwanted-characters
 
 - Update Unwanted Characters:
 
-    **PUT** -> http://rm-dataflow-api.pentaknot.com/dataflow/system-settings/unwated-characters
+    **PUT** -> http://rm-dataflow-api.pentaknot.com/dataflow/system-settings/unwanted-characters
 
 
 ### Staging Setup APIs

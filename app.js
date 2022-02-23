@@ -28,7 +28,7 @@ app.get("/", (req, res) => {
 dataConnections(app, '/dataflow/system-settings/data');
 clusterSetup(app, '/dataflow/system-settings/cluster');
 emailNotification(app, '/dataflow/system-settings/email-notification-config');
-unwantedCharacters(app, '/dataflow/system-settings/unwated-characters');
+unwantedCharacters(app, '/dataflow/system-settings/unwanted-characters');
 stagingSetup(app, '/dataflow/system-settings/staging-setup');
 
 
