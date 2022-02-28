@@ -113,3 +113,37 @@ node app.js
 - Update ALL Staging-Mapping:
 
     **PUT** -> http://rm-dataflow-api.pentaknot.com/dataflow/system-settings/staging-setup
+
+
+
+## Job Configurations
+
+### Job Configuration Instance APIs
+
+- Get All Job Configurations:
+
+    **GET** -> http://rm-dataflow-api.pentaknot.com/dataflow/jobs/job-configs
+
+- Delete Job Configurations:
+
+    **DELETE** http://rm-dataflow-api.pentaknot.com/dataflow/jobs/job-configs<:jobId>
+
+`Add & Edit JSON Pending`
+
+### Job Run History APIs
+
+- GET ALL Job Run History:
+
+    **GET** -> http://rm-dataflow-api.pentaknot.com/dataflow/jobs/run-history
+
+- Get Job Instance Summary / Job History Details:
+
+    **GET** -> http://rm-dataflow-api.pentaknot.com/dataflow/jobs/run-history<:jobInstanceId>
+
+    Eg.
+    - http://rm-dataflow-api.pentaknot.com/dataflow/jobs/run-history/1
+    - http://rm-dataflow-api.pentaknot.com/dataflow/jobs/run-history/2
+    - http://rm-dataflow-api.pentaknot.com/dataflow/jobs/run-history/3
+
+
+

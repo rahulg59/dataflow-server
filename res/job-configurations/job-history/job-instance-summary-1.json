@@ -1,0 +1,245 @@
+[
+    {
+        "eventId": 0,
+        "eventStage": "Load Data",
+        "eventName": "Import Data",
+        "eventStatus": "Completed",
+        "eventMessage": "403 Accounts Passed",
+        "eventStartTime": "Wed Jan 01 2020 19:06:12 GMT+0530 (India Standard Time)",
+        "eventEndTime": "Thu Jan 02 2020 22:46:25 GMT+0530 (India Standard Time)"
+    },
+    {
+        "eventId": 1,
+        "eventStage": "Load Data",
+        "eventName": "File Properties",
+        "eventStatus": "Completed",
+        "eventMessage": "403 Accounts Passed",
+        "eventStartTime": "Fri Jan 03 2020 09:12:21 GMT+0530 (India Standard Time)",
+        "eventEndTime": "Mon Jan 06 2020 01:55:13 GMT+0530 (India Standard Time)"
+    },
+    {
+        "eventId": 2,
+        "eventStage": "Load Data",
+        "eventName": "Validations",
+        "eventStatus": "Completed",
+        "eventMessage": "403 Accounts Passed",
+        "eventStartTime": "Fri Jan 03 2020 20:33:42 GMT+0530 (India Standard Time)",
+        "eventEndTime": "Mon Jan 06 2020 20:47:19 GMT+0530 (India Standard Time)"
+    },
+    {
+        "eventId": 3,
+        "eventStage": "Load Data",
+        "eventName": "Move to Staging Data Table",
+        "eventStatus": "Completed",
+        "eventMessage": "403 Accounts Passed",
+        "eventStartTime": "Wed Jan 08 2020 20:48:26 GMT+0530 (India Standard Time)",
+        "eventEndTime": "Sat Jan 11 2020 01:49:18 GMT+0530 (India Standard Time)"
+    },
+    {
+        "eventId": 4,
+        "eventStage": "Consolidate",
+        "eventName": "Cleanse Data",
+        "eventStatus": "Completed",
+        "eventMessage": "403 Accounts Passed",
+        "eventStartTime": "Mon Jan 13 2020 05:20:36 GMT+0530 (India Standard Time)",
+        "eventEndTime": "Wed Jan 15 2020 08:47:52 GMT+0530 (India Standard Time)"
+    },
+    {
+        "eventId": 5,
+        "eventStage": "Consolidate",
+        "eventName": "Normalize Data Format",
+        "eventStatus": "Completed",
+        "eventMessage": "403 Accounts Passed",
+        "eventStartTime": "Mon Jan 13 2020 19:30:20 GMT+0530 (India Standard Time)",
+        "eventEndTime": "Wed Jan 15 2020 10:34:20 GMT+0530 (India Standard Time)"
+    },
+    {
+        "eventId": 6,
+        "eventStage": "Consolidate",
+        "eventName": "Moving Staging Table Data to Consolidated Data Table",
+        "eventStatus": "Completed",
+        "eventMessage": "403 Accounts Passed",
+        "eventStartTime": "Fri Jan 17 2020 12:59:27 GMT+0530 (India Standard Time)",
+        "eventEndTime": "Sun Jan 19 2020 22:56:12 GMT+0530 (India Standard Time)"
+    },
+    {
+        "eventId": 7,
+        "eventStage": "Consolidate",
+        "eventName": "Custom Activity",
+        "eventStatus": "Completed",
+        "eventMessage": "403 Accounts Passed",
+        "eventStartTime": "Tue Jan 21 2020 19:26:58 GMT+0530 (India Standard Time)",
+        "eventEndTime": "Thu Jan 23 2020 07:37:57 GMT+0530 (India Standard Time)"
+    },
+    {
+        "eventId": 8,
+        "eventStage": "Profiling",
+        "eventName": "Trend Checks",
+        "eventStatus": "Completed",
+        "eventMessage": "403 Accounts Passed",
+        "eventStartTime": "Tue Jan 21 2020 10:04:48 GMT+0530 (India Standard Time)",
+        "eventEndTime": "Thu Jan 23 2020 04:39:23 GMT+0530 (India Standard Time)"
+    },
+    {
+        "eventId": 9,
+        "eventStage": "Profiling",
+        "eventName": "De Duplicate",
+        "eventStatus": "Completed",
+        "eventMessage": "403 Accounts Passed",
+        "eventStartTime": "Sat Jan 25 2020 14:33:24 GMT+0530 (India Standard Time)",
+        "eventEndTime": "Mon Jan 27 2020 09:29:16 GMT+0530 (India Standard Time)"
+    },
+    {
+        "eventId": 10,
+        "eventStage": "Profiling",
+        "eventName": "100% Data Populated for mandatory columns",
+        "eventStatus": "Completed",
+        "eventMessage": "403 Accounts Passed",
+        "eventStartTime": "Sat Feb 01 2020 09:27:04 GMT+0530 (India Standard Time)",
+        "eventEndTime": "Tue Feb 04 2020 14:45:53 GMT+0530 (India Standard Time)"
+    },
+    {
+        "eventId": 11,
+        "eventStage": "Profiling",
+        "eventName": "Any data is \"Out of Date Range\"",
+        "eventStatus": "Completed",
+        "eventMessage": "403 Accounts Passed",
+        "eventStartTime": "Thu Feb 06 2020 06:49:07 GMT+0530 (India Standard Time)",
+        "eventEndTime": "Sat Feb 08 2020 00:36:17 GMT+0530 (India Standard Time)"
+    },
+    {
+        "eventId": 12,
+        "eventStage": "Normalization",
+        "eventName": "Data Preparation",
+        "eventStatus": "Completed",
+        "eventMessage": "403 Accounts Passed",
+        "eventStartTime": "Thu Feb 06 2020 16:18:55 GMT+0530 (India Standard Time)",
+        "eventEndTime": "Sat Feb 08 2020 17:07:48 GMT+0530 (India Standard Time)"
+    },
+    {
+        "eventId": 13,
+        "eventStage": "Normalization",
+        "eventName": "Normalize Through Rules",
+        "eventStatus": "Completed",
+        "eventMessage": "403 Accounts Passed",
+        "eventStartTime": "Mon Feb 10 2020 02:45:23 GMT+0530 (India Standard Time)",
+        "eventEndTime": "Wed Feb 12 2020 08:49:16 GMT+0530 (India Standard Time)"
+    },
+    {
+        "eventId": 14,
+        "eventStage": "Normalization",
+        "eventName": "Normalize Through AI",
+        "eventStatus": "Completed",
+        "eventMessage": "403 Accounts Passed",
+        "eventStartTime": "Fri Feb 14 2020 12:42:57 GMT+0530 (India Standard Time)",
+        "eventEndTime": "Sun Feb 16 2020 20:16:06 GMT+0530 (India Standard Time)"
+    },
+    {
+        "eventId": 15,
+        "eventStage": "Normalization",
+        "eventName": "Manual Normalization and Run Checks",
+        "eventStatus": "Completed",
+        "eventMessage": "403 Accounts Passed",
+        "eventStartTime": "Tue Feb 18 2020 06:47:55 GMT+0530 (India Standard Time)",
+        "eventEndTime": "Thu Feb 20 2020 10:15:27 GMT+0530 (India Standard Time)"
+    },
+    {
+        "eventId": 16,
+        "eventStage": "Normalization",
+        "eventName": "Quality Sampling",
+        "eventStatus": "Completed",
+        "eventMessage": "403 Accounts Passed",
+        "eventStartTime": "Sat Feb 22 2020 19:39:50 GMT+0530 (India Standard Time)",
+        "eventEndTime": "Mon Feb 24 2020 12:46:43 GMT+0530 (India Standard Time)"
+    },
+    {
+        "eventId": 17,
+        "eventStage": "Classification",
+        "eventName": "Data Preparation",
+        "eventStatus": "Completed",
+        "eventMessage": "403 Accounts Passed",
+        "eventStartTime": "Wed Feb 26 2020 07:56:40 GMT+0530 (India Standard Time)",
+        "eventEndTime": "Sun Mar 01 2020 08:56:29 GMT+0530 (India Standard Time)"
+    },
+    {
+        "eventId": 18,
+        "eventStage": "Classification",
+        "eventName": "Normalize Through Rules",
+        "eventStatus": "Completed",
+        "eventMessage": "403 Accounts Passed",
+        "eventStartTime": "Tue Mar 03 2020 03:31:54 GMT+0530 (India Standard Time)",
+        "eventEndTime": "Thu Mar 05 2020 17:04:02 GMT+0530 (India Standard Time)"
+    },
+    {
+        "eventId": 19,
+        "eventStage": "Classification",
+        "eventName": "Normalize Through AI",
+        "eventStatus": "Completed",
+        "eventMessage": "403 Accounts Passed",
+        "eventStartTime": "Sat Mar 07 2020 14:35:55 GMT+0530 (India Standard Time)",
+        "eventEndTime": "Mon Mar 09 2020 11:41:04 GMT+0530 (India Standard Time)"
+    },
+    {
+        "eventId": 20,
+        "eventStage": "Classification",
+        "eventName": "Manual Normalization and Run Checks",
+        "eventStatus": "Completed",
+        "eventMessage": "403 Accounts Passed",
+        "eventStartTime": "Wed Mar 11 2020 21:02:26 GMT+0530 (India Standard Time)",
+        "eventEndTime": "Fri Mar 13 2020 16:56:18 GMT+0530 (India Standard Time)"
+    },
+    {
+        "eventId": 21,
+        "eventStage": "Classification",
+        "eventName": "Quality Sampling",
+        "eventStatus": "Completed",
+        "eventMessage": "403 Accounts Passed",
+        "eventStartTime": "Sun Mar 15 2020 00:16:29 GMT+0530 (India Standard Time)",
+        "eventEndTime": "Tue Mar 17 2020 13:42:57 GMT+0530 (India Standard Time)"
+    },
+    {
+        "eventId": 22,
+        "eventStage": "Scoring",
+        "eventName": "Model Scoring",
+        "eventStatus": "Completed",
+        "eventMessage": "403 Accounts Passed",
+        "eventStartTime": "Thu Mar 19 2020 09:14:24 GMT+0530 (India Standard Time)",
+        "eventEndTime": "Sat Mar 21 2020 21:53:08 GMT+0530 (India Standard Time)"
+    },
+    {
+        "eventId": 23,
+        "eventStage": "Scoring",
+        "eventName": "Rule Scoring",
+        "eventStatus": "Completed",
+        "eventMessage": "403 Accounts Passed",
+        "eventStartTime": "Mon Mar 23 2020 14:10:40 GMT+0530 (India Standard Time)",
+        "eventEndTime": "Wed Mar 25 2020 06:04:37 GMT+0530 (India Standard Time)"
+    },
+    {
+        "eventId": 24,
+        "eventStage": "Scoring",
+        "eventName": "Post Scoring",
+        "eventStatus": "Completed",
+        "eventMessage": "403 Accounts Passed",
+        "eventStartTime": "Fri Mar 27 2020 03:42:40 GMT+0530 (India Standard Time)",
+        "eventEndTime": "Sun Mar 29 2020 19:33:13 GMT+0530 (India Standard Time)"
+    },
+    {
+        "eventId": 25,
+        "eventStage": "Publish Results",
+        "eventName": "Post Processing Cleansing",
+        "eventStatus": "Completed",
+        "eventMessage": "403 Accounts Passed",
+        "eventStartTime": "Wed Apr 01 2020 07:40:41 GMT+0530 (India Standard Time)",
+        "eventEndTime": "Fri Apr 03 2020 09:01:12 GMT+0530 (India Standard Time)"
+    },
+    {
+        "eventId": 26,
+        "eventStage": "Publish Results",
+        "eventName": "Publish Processed data to production",
+        "eventStatus": "Completed",
+        "eventMessage": "403 Accounts Passed",
+        "eventStartTime": "Sun Apr 05 2020 00:26:35 GMT+0530 (India Standard Time)",
+        "eventEndTime": "Tue Apr 07 2020 22:39:48 GMT+0530 (India Standard Time)"
+    }
+]
