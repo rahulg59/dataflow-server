@@ -34,6 +34,7 @@ unwantedCharacters(app, '/dataflow/system-settings/unwanted-characters');
 stagingSetup(app, '/dataflow/system-settings/staging-setup');
 jobConfigurations(app, '/dataflow/jobs');
 jobHistory(app, '/dataflow/jobs');
+consolidateActivity(app, '/dataflow/job/consolidate')
 
 
 
