@@ -11,8 +11,9 @@
       "stepId": 101,
       "stepName": "Blank to NULL",
       "isStepActive": 1,
-      "status": null,
-      "result": null,
+      "status": "Completed",
+      "result": "103 Records Affected",
+      "progress": 100,
       "configureAction": "cleanse-data"
     },
     {
@@ -27,8 +28,9 @@
       "stepId": 102,
       "stepName": "Convert to Uppercase",
       "isStepActive": 1,
-      "status": null,
-      "result": null,
+      "status": "Completed",
+      "result": "103 Records Affected",
+      "progress": 100,
       "configureAction": "cleanse-data"
     },
     {
@@ -43,8 +45,9 @@
       "stepId": 103,
       "stepName": "Replace Multiple spaces with Single Space",
       "isStepActive": 1,
-      "status": null,
-      "result": null,
+      "status": "Completed",
+      "result": "82 Records Affected",
+      "progress": 100,
       "configureAction": "cleanse-data"
     },
     {
@@ -59,8 +62,9 @@
       "stepId": 104,
       "stepName": "Remove Unwanted Characters",
       "isStepActive": 0,
-      "status": null,
-      "result": null,
+      "status": "Completed",
+      "result": "56 Records Affected",
+      "progress": 100,
       "configureAction": "cleanse-data"
     },
     {
@@ -75,8 +79,9 @@
       "stepId": 105,
       "stepName": "Remove Leading zeros",
       "isStepActive": 0,
-      "status": null,
-      "result": null,
+      "status": "Completed",
+      "result": "103 Records Affected",
+      "progress": 100,
       "configureAction": "cleanse-data"
     },
     {
@@ -91,8 +96,9 @@
       "stepId": null,
       "stepName": null,
       "isStepActive": 1,
-      "status": null,
-      "result": null,
+      "status": "Not Configured",
+      "result": "103 Records Affected",
+      "progress": 0,
       "configureAction": "configure-normalize-data"
     },
     {
@@ -106,9 +112,9 @@
       "activityOrder": 3,
       "stepId": 106,
       "stepName": "Staging_table_01 to Consolidated Data Table",
-      "isStepActive": 1,
-      "status": null,
-      "result": null,
+      "status": "Error",
+      "result": "Error Message",
+      "progress": 55,
       "configureAction": "configure-staging-data-table"
     },
     {
@@ -123,8 +129,9 @@
       "stepId": null,
       "stepName": null,
       "isStepActive": 1,
-      "status": null,
-      "result": null,
+      "status": "In Progress",
+      "result": "103 Records Affected",
+      "progress": 64,
       "configureAction": "configure-custom-activity"
     }
   ]
