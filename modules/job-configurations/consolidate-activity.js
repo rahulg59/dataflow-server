@@ -5,7 +5,7 @@ const consolidateActivity = (app, baseEndPoint) => {
     // Get All Job History
     app.get(`${baseEndPoint}/:json`, (req, res) => {
     let rawdata = fs.readFileSync(
-        path.resolve(__dirname, `../../res/job-configurations/staging-configuration/${req.params.json}`)
+        path.resolve(__dirname, `../../res/job-configurations/staging-configuration/consolidate/${req.params.json}.json`)
     );
     let responseObject = {
         data: [],
