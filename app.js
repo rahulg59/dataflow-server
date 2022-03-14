@@ -10,6 +10,7 @@ const { unwantedCharacters } = require("./modules/system-settings/unwanted-chara
 const { stagingSetup } = require("./modules/system-settings/staging-setup");
 const { jobConfigurations } = require("./modules/job-configurations/job-configurations");
 const { jobHistory } = require("./modules/job-configurations/job-history");
+const { consolidateActivity } = require("./modules/job-configurations/consolidate-activity.js");
 const baseUrl = "http://localhost:3000/files/";
 
 var corsOptions = {
