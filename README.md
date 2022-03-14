@@ -147,3 +147,20 @@ node app.js
 
 
 
+## Staging Configuration JSONS
+
+### Consolidate Stage JSON
+- Activity List JSON
+    [Click here to view json](https://raw.githubusercontent.com/rahulg59/rm-dataflow-server/master/res/job-configurations/staging-configuration/consolidate/consolidate-activity.json)
+- Configure - Cleanse Data JSON
+    [Click here to view json](https://raw.githubusercontent.com/rahulg59/rm-dataflow-server/master/res/job-configurations/staging-configuration/consolidate/consolidate-cleanse-data.json)
+- Configure - Normalize Date Json
+    [Click here to view json](https://raw.githubusercontent.com/rahulg59/rm-dataflow-server/master/res/job-configurations/staging-configuration/consolidate/consolidate-normalize-date.json)
+- Master - Date Format Json
+    [Click here to view json](https://raw.githubusercontent.com/rahulg59/rm-dataflow-server/master/res/job-configurations/staging-configuration/consolidate/date-format-master.json)
+- Configure - Moving Staging Data to Conolidate Data JSON
+    [Click here to view json](https://raw.githubusercontent.com/rahulg59/rm-dataflow-server/master/res/job-configurations/staging-configuration/consolidate/consolidate-moving-staging-data-to-consolidate-data.json)
+- Mapping - Staging Data to consolidate mapping json
+    [Click here to view json](https://raw.githubusercontent.com/rahulg59/rm-dataflow-server/master/res/job-configurations/staging-configuration/consolidate/staging-data-consolidate-data-mapping.json)
+- Configure - Custom Activity
+    [Click here to view json](https://raw.githubusercontent.com/rahulg59/rm-dataflow-server/master/res/job-configurations/staging-configuration/consolidate/consolidate-custom-activity.json)
