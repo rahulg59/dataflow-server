@@ -1,0 +1,35 @@
+[
+    {
+      "stepId": 106,
+      "stagingTableId": 101,
+      "stagingTable": "Staging_Table_1",
+      "consolidateTableId": 201,
+      "consolidateTable": "Consolidated Data Table 1",
+      "stageColumnId": 1,
+      "stageColumnName": "Facility Id",
+      "consolidatedColumnId": 1,
+      "consolidatedColumnName": "Facility Id"
+    },
+    {
+      "stepId": 106,
+      "stagingTableId": 101,
+      "stagingTable": "Staging_Table_1",
+      "consolidateTableId": 201,
+      "consolidateTable": "Consolidated Data Table 1",
+      "stageColumnId": 2,
+      "stageColumnName": "Patient Network",
+      "consolidatedColumnId": 2,
+      "consolidatedColumnName": "Patient Network"
+    },
+    {
+      "stepId": 106,
+      "stagingTableId": 101,
+      "stagingTable": "Staging_Table_1",
+      "consolidateTableId": 201,
+      "consolidateTable": "Consolidated Data Table 1",
+      "stageColumnId": 3,
+      "stageColumnName": "Account Type",
+      "consolidatedColumnId": 3,
+      "consolidatedColumnName": "Account Type"
+    }
+  ]

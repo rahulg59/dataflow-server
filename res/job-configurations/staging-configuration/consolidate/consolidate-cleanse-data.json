@@ -1,0 +1,27 @@
+[
+    {
+      "stepId": 101,
+      "stepName": "Blank to NULL",
+      "isStepActive": 1
+    },
+    {
+      "stepId": 102,
+      "stepName": "Convert to Uppercase",
+      "isStepActive": 1
+    },
+    {
+      "stepId": 103,
+      "stepName": "Replace Multiple spaces with Single Space",
+      "isStepActive": 1
+    },
+    {
+      "stepId": 104,
+      "stepName": "Remove Unwanted Characters",
+      "isStepActive": 0
+    },
+    {
+      "stepId": 105,
+      "stepName": "Remove Leading zeros",
+      "isStepActive": 0
+    }
+  ]

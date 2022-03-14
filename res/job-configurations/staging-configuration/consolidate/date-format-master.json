@@ -1,0 +1,14 @@
+[
+    {
+      "id": 1,
+      "dateFormat": "MM/DD/YYYY"
+    },
+    {
+      "id": 2,
+      "dateFormat": "DD/MM/YYYY"
+    },
+    {
+      "id": 3,
+      "dateFormat": "YYYY/MM/DD"
+    }
+  ]

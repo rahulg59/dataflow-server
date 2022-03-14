@@ -1,0 +1,26 @@
+[
+    {
+      "stepId": 106,
+      "stagingTableId": 101,
+      "stagingTable": "Staging_Table_1",
+      "isMapped": 1,
+      "consolidateTableId": 201,
+      "consolidateTable": "Consolidated Data Table 1"
+    },
+    {
+      "stepId": 107,
+      "stagingTableId": 102,
+      "stagingTable": "Staging_Table_2",
+      "isMapped": 0,
+      "consolidateTableId": 202,
+      "consolidateTable": "Consolidated Data Table 2"
+    },
+    {
+      "stepId": 108,
+      "stagingTableId": 103,
+      "stagingTable": "Staging_Table_3",
+      "isMapped": 0,
+      "consolidateTableId": 203,
+      "consolidateTable": "Consolidated Data Table 3"
+    }
+  ]

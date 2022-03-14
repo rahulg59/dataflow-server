@@ -1,0 +1,29 @@
+{
+    "dateFormat": 1,
+    "stagingTables": [
+      {
+        "dataTableId": 1,
+        "dataTableName": "Data Table 1",
+        "columns": [
+          {
+            "columnId": 1,
+            "columnName": "Facility Id"
+          },
+          {
+            "columnId": 2,
+            "columnName": "Patient Network"
+          }
+        ]
+      },
+      {
+        "dataTableId": 2,
+        "dataTableName": "Data Table 2",
+        "columns": [
+          {
+            "columnId": 3,
+            "columnName": "Account Type"
+          }
+        ]
+      }
+    ]
+  }
