@@ -1,6 +1,8 @@
 {
+    "customActivityId": 41,
     "activityName": "Custom Activity",
-    "activityType": 1,
-    "conditionType": "SQL",
+    "activityType": "runtime",
+    "runType": "SQL",
+    "filePath": null,
     "condition": "UPDATE TARGET_TABLE SET A.SENT_FLAG = 'W' WHERE SENT_FLAG = 'Y' AND KEY_COLUMN NOT IN (SELECT KEY_COLUMN FROM TARGET_TABLE WHERE SENT_FLAG = 'Y' ORDER BY SCORE_VAL DESC LIMIT 500);"
 }
